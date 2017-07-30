@@ -21,6 +21,7 @@ run command
  $ umlcr mainapp.elf
  
  $ umldiag recv_cb(function_name)
+ 
 --------------------------------------------------------------------------
 
 
